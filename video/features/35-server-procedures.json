@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Server procedures",
+    "at": 0
+  },
+  {
+    "title": "DataverseToCode Procedures managed solution (versions 1.0.2 to 1.0.4)",
+    "at": 10.6
+  },
+  {
+    "title": "<prefix>_<Name> Custom API; parameter type mapping; rows JSON",
+    "at": 47.1
+  },
+  {
+    "title": "-- privilege:",
+    "at": 70.6
+  },
+  {
+    "title": "Server time zone",
+    "at": 79.8
+  },
+  {
+    "title": "Two-minute limit",
+    "at": 86.7
+  },
+  {
+    "title": "▷ Run on server vs browser, with a deployed check",
+    "at": 93.1
+  },
+  {
+    "title": "Deleting the procedure deletes its API at the next push",
+    "at": 157.3
+  },
+  {
+    "title": "Release carries it",
+    "at": 206.5
+  }
+]

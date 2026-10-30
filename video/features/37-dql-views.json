@@ -1,0 +1,46 @@
+[
+  {
+    "title": "DQL views as tables",
+    "at": 0
+  },
+  {
+    "title": "Header lines: table, display, key, description, column, name, on insert/update/delete, writes none",
+    "at": 10
+  },
+  {
+    "title": "Generated table YAML, main form, plan.json, Dql.<name>()",
+    "at": 118
+  },
+  {
+    "title": "Column types",
+    "at": 145.4
+  },
+  {
+    "title": "Filter pushdown; 5,000 rows",
+    "at": 163.2
+  },
+  {
+    "title": "Editable columns and reasons; create-only keys",
+    "at": 177.8
+  },
+  {
+    "title": "Generated write procedures; CHANGED()",
+    "at": 203.2
+  },
+  {
+    "title": "Custom on-operation procedures",
+    "at": 218.8
+  },
+  {
+    "title": "Joins, unions, external sources",
+    "at": 234.2
+  },
+  {
+    "title": "Delete or rename a view (dependency check)",
+    "at": 254.7
+  },
+  {
+    "title": "Release checks the columns it reads and writes",
+    "at": 285.7
+  }
+]

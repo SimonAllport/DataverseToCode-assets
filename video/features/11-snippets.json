@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Snippets",
+    "at": 0
+  },
+  {
+    "title": "21 built-ins plus 2 procedure snippets",
+    "at": 10.1
+  },
+  {
+    "title": "Placeholders ask for column, option, section, tab, etc",
+    "at": 37.7
+  },
+  {
+    "title": "Namespace-aware insert",
+    "at": 61.7
+  },
+  {
+    "title": "Library: search, Insert, Copy, Copy to project",
+    "at": 88.9
+  },
+  {
+    "title": "Project snippets in snippets/, replacing a built-in by @prefix; header mistakes shown",
+    "at": 117
+  },
+  {
+    "title": "Save as Snippet makes placeholders from names",
+    "at": 148.1
+  },
+  {
+    "title": "Team library: Git URL in dataverse.yaml, daily refresh, offline copy, status bar age",
+    "at": 179.4
+  },
+  {
+    "title": "Share to team library opens a branch and PR (gh or browser)",
+    "at": 211.9
+  },
+  {
+    "title": "Designer: Add from snippet… on On load, On save, On change, including a form with no script yet",
+    "at": 238.8
+  },
+  {
+    "title": "Typed insert",
+    "at": 313.7
+  }
+]

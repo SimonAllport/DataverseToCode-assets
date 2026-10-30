@@ -1,0 +1,30 @@
+[
+  {
+    "title": "YAML authoring, IntelliSense and validation",
+    "at": 0
+  },
+  {
+    "title": "Completion of property names and values",
+    "at": 10.6
+  },
+  {
+    "title": "Hover help",
+    "at": 39.3
+  },
+  {
+    "title": "Each cross-file check",
+    "at": 47.8
+  },
+  {
+    "title": "Formula completion, hover, go to definition",
+    "at": 99.3
+  },
+  {
+    "title": "Problems panel",
+    "at": 125.4
+  },
+  {
+    "title": "dvschema validate",
+    "at": 143.1
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Sharing results",
+    "at": 0
+  },
+  {
+    "title": "Export xlsx or CSV to the git-ignored exports/; asks above 5,000 rows",
+    "at": 9.1
+  },
+  {
+    "title": "Rich table pastes into Teams, Outlook, Word",
+    "at": 43.1
+  },
+  {
+    "title": "Personal view is remembered per query and environment; update on re-share",
+    "at": 66.2
+  },
+  {
+    "title": "Why a query can't be a view",
+    "at": 90.6
+  },
+  {
+    "title": "People and team picker",
+    "at": 104.6
+  },
+  {
+    "title": "Move to the project",
+    "at": 140.9
+  }
+]

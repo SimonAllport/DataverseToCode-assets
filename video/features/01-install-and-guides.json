@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Install, onboarding and guides",
+    "at": 0
+  },
+  {
+    "title": "Install from Marketplace",
+    "at": 9.2
+  },
+  {
+    "title": "Dataverse icon appears with two views",
+    "at": 29.4
+  },
+  {
+    "title": ".NET runtime fetched once by the .NET Install Tool",
+    "at": 44.8
+  },
+  {
+    "title": "Both walkthroughs, every step button",
+    "at": 68.1
+  },
+  {
+    "title": "Guides open inside VS Code",
+    "at": 146.3
+  },
+  {
+    "title": "cliPath and signIn settings",
+    "at": 182.7
+  },
+  {
+    "title": "Message when the installed dvschema is older than the extension's",
+    "at": 213.2
+  },
+  {
+    "title": "Restricted Mode / workspace trust message",
+    "at": 236.5
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Settings… (header lines)",
+    "at": 0
+  },
+  {
+    "title": "Query: Run against, Chart, Note",
+    "at": 9.2
+  },
+  {
+    "title": "Procedure: Where it runs, Schedule, Description",
+    "at": 51.3
+  },
+  {
+    "title": "View: Table name, Display name, Key (from its columns), Description, Saving, On insert/update/delete (Automatic, Refused or a procedure)",
+    "at": 85.4
+  },
+  {
+    "title": "Writes only that one line",
+    "at": 122.5
+  },
+  {
+    "title": "Warns before renaming the table or key of a pushed view",
+    "at": 139.7
+  }
+]

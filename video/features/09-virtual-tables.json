@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Virtual tables, data sources, connection references and external data",
+    "at": 0
+  },
+  {
+    "title": "Provider pick",
+    "at": 11.4
+  },
+  {
+    "title": "Data source, new or existing",
+    "at": 24
+  },
+  {
+    "title": "externalName",
+    "at": 36.4
+  },
+  {
+    "title": "query: limits block",
+    "at": 50.8
+  },
+  {
+    "title": "Data source file: values and per-environment overrides",
+    "at": 58.1
+  },
+  {
+    "title": "Secrets from an environment variable or local secrets:; shown as •••; resend-secrets",
+    "at": 73
+  },
+  {
+    "title": "Connection reference file and connection binding (local yaml or DV_CONNECTIONS)",
+    "at": 87.3
+  },
+  {
+    "title": "SharePoint recipe; OData rules",
+    "at": 138.2
+  },
+  {
+    "title": "Status warnings in the Project view",
+    "at": 153.9
+  },
+  {
+    "title": "Push order",
+    "at": 184.7
+  },
+  {
+    "title": "Drift on data source values",
+    "at": 203.6
+  },
+  {
+    "title": "Release and import steps",
+    "at": 230.7
+  },
+  {
+    "title": "DQL pushdown warnings and the 5,000-row limit",
+    "at": 261.9
+  },
+  {
+    "title": "Views over external tables; one external source per save; read-only providers",
+    "at": 278.6
+  }
+]

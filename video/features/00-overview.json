@@ -1,0 +1,46 @@
+[
+  {
+    "title": "DataverseToCode in ten minutes",
+    "at": 0
+  },
+  {
+    "title": "Connect to an environment, and create a project",
+    "at": 11.5
+  },
+  {
+    "title": "Look around the environment",
+    "at": 37.7
+  },
+  {
+    "title": "Your schema as files: the Table Designer",
+    "at": 63.8
+  },
+  {
+    "title": "Forms, business rules and scripts",
+    "at": 92.9
+  },
+  {
+    "title": "Try Form and tests",
+    "at": 133.5
+  },
+  {
+    "title": "Plan and push to dev",
+    "at": 159.9
+  },
+  {
+    "title": "Working together: claims and changes",
+    "at": 186.9
+  },
+  {
+    "title": "Query your data with DQL, and chart it",
+    "at": 196.2
+  },
+  {
+    "title": "Procedures, views, APIs and schedules",
+    "at": 218.3
+  },
+  {
+    "title": "Release to test and production",
+    "at": 231.2
+  }
+]

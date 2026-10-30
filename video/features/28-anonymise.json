@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Anonymise",
+    "at": 0
+  },
+  {
+    "title": "Off by default; turn on or off",
+    "at": 12
+  },
+  {
+    "title": "Per column keep, fake or blank (lookups keep or blank); Use the default",
+    "at": 36.5
+  },
+  {
+    "title": "Detection rules",
+    "at": 63.6
+  },
+  {
+    "title": "Fakes keep format; consistent via .dataverse/anonymise.salt",
+    "at": 76.8
+  },
+  {
+    "title": "Results header \"Live data from dev · anonymised\"",
+    "at": 111.9
+  },
+  {
+    "title": "Charts and copies stay anonymised",
+    "at": 132.9
+  },
+  {
+    "title": "anonymise: block in dataverse.yaml",
+    "at": 151.1
+  }
+]

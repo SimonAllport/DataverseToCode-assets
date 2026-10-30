@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Releases (export, import, chosen stories)",
+    "at": 0
+  },
+  {
+    "title": "Managed and/or unmanaged export to dist/",
+    "at": 8.9
+  },
+  {
+    "title": "Story ids and stories.link",
+    "at": 134
+  },
+  {
+    "title": "Readiness blockers",
+    "at": 153.2
+  },
+  {
+    "title": "Release solution build plus releases/<v>.md and .yaml commit",
+    "at": 165.8
+  },
+  {
+    "title": "Freeze (\"being released\")",
+    "at": 189.9
+  },
+  {
+    "title": "Ship from the panel (production asks) or tag stories: for the pipeline; allow-missing",
+    "at": 203.6
+  },
+  {
+    "title": "Abandon",
+    "at": 245.1
+  },
+  {
+    "title": "Carries Custom APIs, flows, connection references and environment variables; lists secrets to link; binds connections and turns flows on",
+    "at": 271.8
+  }
+]

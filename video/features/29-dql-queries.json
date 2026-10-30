@@ -1,0 +1,46 @@
+[
+  {
+    "title": "DQL queries",
+    "at": 0
+  },
+  {
+    "title": "Guided New Query (table, where it runs, name, shared or just for me)",
+    "at": 10.6
+  },
+  {
+    "title": "Query a table runs SELECT TOP 100",
+    "at": 50.6
+  },
+  {
+    "title": "Completion: tables, columns via aliases, choice values, joins along relationships",
+    "at": 77.7
+  },
+  {
+    "title": "Error underlines",
+    "at": 107.2
+  },
+  {
+    "title": "Run the selection",
+    "at": 116.8
+  },
+  {
+    "title": "-- env: line, with a fix when misplaced",
+    "at": 128.5
+  },
+  {
+    "title": "Results grid features",
+    "at": 152.8
+  },
+  {
+    "title": "Writes counted first; dev or allowQueryWrites",
+    "at": 179.4
+  },
+  {
+    "title": "Personal queries",
+    "at": 206
+  },
+  {
+    "title": "SQL 4 CDS engine",
+    "at": 238
+  }
+]

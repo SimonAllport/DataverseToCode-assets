@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Forms: preview, designer, new form and app look",
+    "at": 0
+  },
+  {
+    "title": "Main, quick create, quick view, card",
+    "at": 9.5
+  },
+  {
+    "title": "Add pane: Existing columns; New field by type (Text … Customer) creates a column; Layout (1-3 column tabs and sections, spacer); Components (Subgrid offers to add a lookup; quick view; timeline); Scripts",
+    "at": 55.3
+  },
+  {
+    "title": "Header fields and flyout",
+    "at": 112.8
+  },
+  {
+    "title": "Desktop, Tablet, Phone",
+    "at": 125.3
+  },
+  {
+    "title": "Properties: This form vs Column (locked after push)",
+    "at": 139.6
+  },
+  {
+    "title": "Saved as you go; comments kept; a rename follows to other forms",
+    "at": 157.3
+  },
+  {
+    "title": "Call procedure…",
+    "at": 178
+  },
+  {
+    "title": "theme: colours, else the dev theme, else standard",
+    "at": 206.3
+  },
+  {
+    "title": "Managed-form warning",
+    "at": 240.8
+  }
+]

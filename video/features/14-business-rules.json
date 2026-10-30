@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Business rules",
+    "at": 0
+  },
+  {
+    "title": "IF tests: equals, begins with, empty, etc., plus numeric comparisons",
+    "at": 10.3
+  },
+  {
+    "title": "THEN actions: required, show/hide, lock/unlock, set value or copy, default, error message",
+    "at": 183
+  },
+  {
+    "title": "+ else if / + else, reorder, ✕",
+    "at": 197.4
+  },
+  {
+    "title": "Live flowchart",
+    "at": 207.4
+  },
+  {
+    "title": "Scope; active or draft",
+    "at": 214.7
+  },
+  {
+    "title": "Unsupported logic is kept",
+    "at": 254.5
+  },
+  {
+    "title": "Push never deletes rules or touches managed ones",
+    "at": 267.5
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Changes made in Dataverse by others, and merge",
+    "at": 0
+  },
+  {
+    "title": "The first check sets a baseline",
+    "at": 9.8
+  },
+  {
+    "title": "Automatic checks every N minutes",
+    "at": 22
+  },
+  {
+    "title": "Marks and colours; green rows for added columns, red for deleted",
+    "at": 41.1
+  },
+  {
+    "title": "Show changes diff (two diffs for a conflict)",
+    "at": 61.3
+  },
+  {
+    "title": "Pull just one item",
+    "at": 97.6
+  },
+  {
+    "title": "Clean merge vs the merge editor",
+    "at": 112.3
+  },
+  {
+    "title": "Ignore",
+    "at": 138.8
+  },
+  {
+    "title": "\"changes not checked\" status",
+    "at": 150.5
+  },
+  {
+    "title": "Your own pushes are excluded",
+    "at": 166.4
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Git and CI pipelines",
+    "at": 0
+  },
+  {
+    "title": "Publish to GitHub; commit and sync",
+    "at": 11
+  },
+  {
+    "title": "Teammate onboarding",
+    "at": 34.6
+  },
+  {
+    "title": "PR checks: validate, tests, docs check, drift",
+    "at": 58.9
+  },
+  {
+    "title": "Tag release workflow with approval",
+    "at": 80.2
+  },
+  {
+    "title": "DV_CONNECTIONS and secrets in pipelines",
+    "at": 96.6
+  }
+]

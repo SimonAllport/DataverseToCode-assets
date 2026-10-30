@@ -1,0 +1,50 @@
+[
+  {
+    "title": "DQL procedures (browser) and calling them from forms",
+    "at": 0
+  },
+  {
+    "title": "Guided New Procedure starter",
+    "at": 11.5
+  },
+  {
+    "title": "Language: variables, IF/WHILE, TRY/CATCH, transactions (≤1,000 changes), table variables, cursors, EXEC, UNION, THROW",
+    "at": 47.7
+  },
+  {
+    "title": "Typings say \"Changes data.\"",
+    "at": 78.6
+  },
+  {
+    "title": "DqlError",
+    "at": 88.1
+  },
+  {
+    "title": ".full() gives outputs and returnValue",
+    "at": 94.9
+  },
+  {
+    "title": "Run asks for parameters; a write is counted, then Run it",
+    "at": 105
+  },
+  {
+    "title": "Run a selection",
+    "at": 135.6
+  },
+  {
+    "title": "Show JS, Plan, Copy standalone",
+    "at": 156.2
+  },
+  {
+    "title": "Rename updates its calls",
+    "at": 185.9
+  },
+  {
+    "title": "Call Procedure… wizard (parameter sources; result actions incl. block save; event wiring; adds procedures.js)",
+    "at": 217.6
+  },
+  {
+    "title": "Designer warns when procedures.js is missing",
+    "at": 260.3
+  }
+]

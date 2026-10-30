@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Table Designer, columns and choices",
+    "at": 0
+  },
+  {
+    "title": "Table settings",
+    "at": 10.4
+  },
+  {
+    "title": "Columns grid: blue dot for existing, green for new, padlock for locked",
+    "at": 26.4
+  },
+  {
+    "title": "Details pane for every type: formats, lengths, defaults, security, search, sort, autonumber, cascade, choice options and colours, formula",
+    "at": 36.8
+  },
+  {
+    "title": "Alternate keys",
+    "at": 79
+  },
+  {
+    "title": "Status reasons section",
+    "at": 87.7
+  },
+  {
+    "title": "+ Add column; ✕ remove (file only)",
+    "at": 100.1
+  },
+  {
+    "title": "Problems on their row",
+    "at": 123.2
+  },
+  {
+    "title": "Undo, save and Git work as usual",
+    "at": 133.7
+  },
+  {
+    "title": "Column types: text, multiline, autonumber, whole number, bigint, decimal, float, currency, date, datetime, yes/no, choice, choices, lookup, customer, multi-table lookup, file, image, formula, calculated, rollup",
+    "at": 164.6
+  },
+  {
+    "title": "Global choice file",
+    "at": 202.2
+  },
+  {
+    "title": "Option values are permanent",
+    "at": 218.1
+  },
+  {
+    "title": "Plan warnings on irreversible changes",
+    "at": 241.8
+  }
+]

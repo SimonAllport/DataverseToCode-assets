@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Tests (dvschema test)",
+    "at": 0
+  },
+  {
+    "title": "Generate a full set",
+    "at": 10.8
+  },
+  {
+    "title": "Run all; read a failure (expected vs actual)",
+    "at": 33.7
+  },
+  {
+    "title": "Steps: set, save, confirm, click, collapse, wait",
+    "at": 69.4
+  },
+  {
+    "title": "Expectations: value, required, visible, disabled, label, notification, options, saved, formNotification, dialog, log",
+    "at": 81.7
+  },
+  {
+    "title": "Procedure tests: call, rows, count, throws, outputs, returnValue, records",
+    "at": 92.5
+  },
+  {
+    "title": "given.http",
+    "at": 108.3
+  },
+  {
+    "title": "Report coverage",
+    "at": 120.7
+  },
+  {
+    "title": "tests/results.json for sharing",
+    "at": 139
+  },
+  {
+    "title": "Browser (Chromium); online against dev with testApp; clean up",
+    "at": 169.7
+  },
+  {
+    "title": "JUnit output; tests.beforePush marks items untested",
+    "at": 249.2
+  },
+  {
+    "title": "Calibration",
+    "at": 267.9
+  }
+]

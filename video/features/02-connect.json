@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Connect to an environment",
+    "at": 0
+  },
+  {
+    "title": "Sign in; environments listed",
+    "at": 9.7
+  },
+  {
+    "title": "Connection name",
+    "at": 30.8
+  },
+  {
+    "title": "Tick \"Development environment\" (isDev)",
+    "at": 40.2
+  },
+  {
+    "title": "Show tables by Publisher or Solution",
+    "at": 48.1
+  },
+  {
+    "title": "Edit Connection reopens the dialog",
+    "at": 72.9
+  },
+  {
+    "title": "Placeholder URL shows as \"not set up yet\"",
+    "at": 94.5
+  },
+  {
+    "title": "Refresh Snapshot",
+    "at": 111.3
+  },
+  {
+    "title": "Group By for one connection or all of them",
+    "at": 128.3
+  }
+]

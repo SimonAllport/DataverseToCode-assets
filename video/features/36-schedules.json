@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Scheduled procedures and Choose Connection",
+    "at": 0
+  },
+  {
+    "title": "Frequencies: daily, weekly, monthly, hourly, every N hours, 15/20/30 minutes",
+    "at": 9.9
+  },
+  {
+    "title": "IANA time zone; timeZone: in dataverse.yaml",
+    "at": 31
+  },
+  {
+    "title": "Warning for a procedure that changes data",
+    "at": 43.8
+  },
+  {
+    "title": "Writes the -- schedule: line and connections/dataverse.connref.yaml",
+    "at": 50.7
+  },
+  {
+    "title": "Choose Connection writes dataverse.local.yaml",
+    "at": 73.6
+  },
+  {
+    "title": "Push creates the flow and turns it on",
+    "at": 104.4
+  },
+  {
+    "title": "Schedules group status (next run, flow on/off, last run)",
+    "at": 132.3
+  },
+  {
+    "title": "Run Now, Open in Power Automate, Turn Off/On (off (was …)), Turn Off in an Environment",
+    "at": 146.6
+  },
+  {
+    "title": "Removing the line deletes the flow",
+    "at": 194.4
+  },
+  {
+    "title": "Release binds the connection and turns the flow on",
+    "at": 216.7
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "New Project and project setup",
+    "at": 0
+  },
+  {
+    "title": "One-step connect and create",
+    "at": 9.6
+  },
+  {
+    "title": "Prefix checked against the environment's publishers",
+    "at": 35.5
+  },
+  {
+    "title": "Create a publisher (dev only)",
+    "at": 45.4
+  },
+  {
+    "title": "Pick an existing solution, which sets the prefix and groups tables by solution",
+    "at": 56.5
+  },
+  {
+    "title": "Pull its tables now",
+    "at": 68.2
+  },
+  {
+    "title": "CI choice",
+    "at": 75.1
+  },
+  {
+    "title": "Claims choice",
+    "at": 81.3
+  },
+  {
+    "title": "Team snippet library",
+    "at": 88.7
+  },
+  {
+    "title": "Project layout tour (dataverse.yaml, dataverse.local.yaml, schema/tables, choices, forms, rules, webresources, seed, apis, .github/workflows)",
+    "at": 119
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Pull Data (real sample rows)",
+    "at": 0
+  },
+  {
+    "title": "50 latest active rows plus referenced records",
+    "at": 10.7
+  },
+  {
+    "title": "Every data column",
+    "at": 34.6
+  },
+  {
+    "title": "Virtual tables read through their provider",
+    "at": 58.6
+  },
+  {
+    "title": "Header line says anonymised or real",
+    "at": 76.9
+  },
+  {
+    "title": "A failed pull always says so",
+    "at": 94.3
+  }
+]

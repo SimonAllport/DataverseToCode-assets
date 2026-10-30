@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Plan and push",
+    "at": 0
+  },
+  {
+    "title": "Grouping by table (choices and scripts have their own groups)",
+    "at": 10.1
+  },
+  {
+    "title": "Dependencies ticked along",
+    "at": 28.8
+  },
+  {
+    "title": "Untick to hold back; footer count of what is left",
+    "at": 40.4
+  },
+  {
+    "title": "Dev only (isDev)",
+    "at": 49.7
+  },
+  {
+    "title": "Applied inside the solution and published",
+    "at": 75.7
+  },
+  {
+    "title": "Partial-failure report",
+    "at": 105.8
+  },
+  {
+    "title": "Custom APIs, cloud flows, environment variables in the plan",
+    "at": 130
+  },
+  {
+    "title": "Items others changed, claimed or drafted start unticked",
+    "at": 147.1
+  }
+]

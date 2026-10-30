@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Working offline and Save offline changes",
+    "at": 0
+  },
+  {
+    "title": "\"Offline · pulled data\" header",
+    "at": 9.8
+  },
+  {
+    "title": "Changes apply at once (\"not saved\")",
+    "at": 43.8
+  },
+  {
+    "title": "Missing pulled data hint",
+    "at": 78.3
+  },
+  {
+    "title": "Real-data warning before writing a committed seed",
+    "at": 95.3
+  },
+  {
+    "title": "New scenario or add to an existing one",
+    "at": 115.1
+  },
+  {
+    "title": "records, changes, deletes, pulledData",
+    "at": 130.2
+  },
+  {
+    "title": "Skipped-change warnings on load",
+    "at": 143.7
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Calling APIs from DQL",
+    "at": 0
+  },
+  {
+    "title": "api.yaml: baseUrl per environment, auth header or bearer, headers, timeout",
+    "at": 10.4
+  },
+  {
+    "title": "<prefix>_<name>BaseUrl environment variable",
+    "at": 62.1
+  },
+  {
+    "title": "Key in dtc_apisecret, never shown; rotate",
+    "at": 81.9
+  },
+  {
+    "title": "HTTP_GET/POST/PUT/PATCH/DELETE, URL_ENCODE",
+    "at": 112.2
+  },
+  {
+    "title": "OPENJSON…WITH, JSON_VALUE, JSON_QUERY, ISJSON, JSON_OBJECT, JSON_ARRAY, FOR JSON PATH",
+    "at": 125.8
+  },
+  {
+    "title": "Status codes catchable as ERROR_NUMBER; one retry; 110-second budget",
+    "at": 134.1
+  },
+  {
+    "title": "Views over OPENJSON(HTTP_GET())",
+    "at": 145.6
+  },
+  {
+    "title": "Recorded responses in tests/http and given.http",
+    "at": 157.3
+  },
+  {
+    "title": "Procedures 1.0.4.0 (plan version 4)",
+    "at": 183.2
+  },
+  {
+    "title": "Release notes list secrets to link",
+    "at": 205.6
+  }
+]

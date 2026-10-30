@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Browse an environment (Connections view)",
+    "at": 0
+  },
+  {
+    "title": "Grouping",
+    "at": 9.8
+  },
+  {
+    "title": "Owned marker",
+    "at": 35.3
+  },
+  {
+    "title": "Column types and display names",
+    "at": 48.4
+  },
+  {
+    "title": "Forms and rules under a table",
+    "at": 66.3
+  },
+  {
+    "title": "View Data: search, column filter, sort, Load more, seeded marks, open the record",
+    "at": 88.3
+  },
+  {
+    "title": "Read-only preview",
+    "at": 149.5
+  },
+  {
+    "title": "Copy Logical Name",
+    "at": 162.9
+  },
+  {
+    "title": "Snapshot-based (fast, changes nothing)",
+    "at": 180.2
+  }
+]

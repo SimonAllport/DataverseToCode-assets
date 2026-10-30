@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Form scripts and IntelliSense",
+    "at": 0
+  },
+  {
+    "title": "Create a script typed for the table (onLoad)",
+    "at": 10.9
+  },
+  {
+    "title": "getAttribute completes columns; choice values complete; typos flagged (// @ts-check)",
+    "at": 27.6
+  },
+  {
+    "title": "Handlers listed under each form",
+    "at": 63.5
+  },
+  {
+    "title": "Wiring scripts in the designer (Scripts list, On load, On save, On change, function picker, Other function…)",
+    "at": 85.3
+  },
+  {
+    "title": "Library load order with ↑/↓",
+    "at": 122.8
+  },
+  {
+    "title": "Origin labels: This project, Other solution, Managed, Missing",
+    "at": 139.2
+  },
+  {
+    "title": "+ Add library from the environment",
+    "at": 151.6
+  },
+  {
+    "title": "Handler settings: Enabled, Pass execution context, parameters",
+    "at": 161.8
+  },
+  {
+    "title": "Plan warning for an unmanaged library outside the solution",
+    "at": 180.3
+  }
+]

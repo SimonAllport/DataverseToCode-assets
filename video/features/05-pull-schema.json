@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Pull schema into files",
+    "at": 0
+  },
+  {
+    "title": "Only your own things are managed (an extended system table writes only your columns)",
+    "at": 10.2
+  },
+  {
+    "title": "Defaults left out",
+    "at": 38.7
+  },
+  {
+    "title": "Asks before overwriting local edits",
+    "at": 48.4
+  },
+  {
+    "title": "Forms go to schema/forms/<table>/, rules to schema/rules/<table>/, scripts to webresources/",
+    "at": 72.2
+  },
+  {
+    "title": "Global choices",
+    "at": 107.1
+  },
+  {
+    "title": "Virtual tables bring their data source and connection reference",
+    "at": 117.3
+  },
+  {
+    "title": "--only for a single item",
+    "at": 140.9
+  }
+]

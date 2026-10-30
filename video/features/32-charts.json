@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Charts",
+    "at": 0
+  },
+  {
+    "title": "Column, bar, line, area, pie, doughnut",
+    "at": 11.1
+  },
+  {
+    "title": "Group, aggregate, split",
+    "at": 53.3
+  },
+  {
+    "title": "40 groups / 20 slices / 10 series, with Other",
+    "at": 76.7
+  },
+  {
+    "title": "Choice shown by label",
+    "at": 88.1
+  },
+  {
+    "title": "Screen-reader sentence",
+    "at": 110.5
+  },
+  {
+    "title": "Chart saved in the file for the team",
+    "at": 118.8
+  },
+  {
+    "title": "Anonymised/real caption on images",
+    "at": 131.9
+  },
+  {
+    "title": "2x image size",
+    "at": 140.3
+  }
+]
